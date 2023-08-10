@@ -1,0 +1,17 @@
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\bin\Debug\net6.0-windows\Avalição.exe
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\bin\Debug\net6.0-windows\Avalição.deps.json
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\bin\Debug\net6.0-windows\Avalição.runtimeconfig.json
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\bin\Debug\net6.0-windows\Avalição.dll
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\bin\Debug\net6.0-windows\Avalição.pdb
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.csproj.AssemblyReference.cache
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.Form1.resources
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.csproj.GenerateResource.cache
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.AssemblyInfoInputs.cache
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.AssemblyInfo.cs
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.csproj.CoreCompileInputs.cache
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.dll
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\refint\Avalição.dll
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.pdb
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\Avalição.genruntimeconfig.cache
+C:\Users\artur.aamaral\source\repos\Avalição\Avalição\obj\Debug\net6.0-windows\ref\Avalição.dll
